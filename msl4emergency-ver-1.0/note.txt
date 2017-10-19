@@ -1,0 +1,4 @@
+Myanmar sign language corpus for emergency domain version 1.0.
+
+Information of files and folders:
+
