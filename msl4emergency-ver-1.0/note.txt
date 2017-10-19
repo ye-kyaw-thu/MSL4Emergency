@@ -8,3 +8,6 @@ sl (Myanmar sign language)
 my-sl (Parallel data of Myanmar written text and Myanmar sign language)
 my-mypos (Parallel data of Myanmar written text and POS tagged Myanmar written text)
 
+link for accessing Myanmar sign language videos:
+*** Please wait, we are preparing/uploading ... 
+
