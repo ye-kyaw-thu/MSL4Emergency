@@ -2,3 +2,9 @@ Myanmar sign language corpus for emergency domain version 1.0.
 
 Information of files and folders:
 
+my (Myanmar written text)
+my-pos (POS tagged Myanmar written text)
+sl (Myanmar sign language)
+my-sl (Parallel data of Myanmar written text and Myanmar sign language)
+my-mypos (Parallel data of Myanmar written text and POS tagged Myanmar written text)
+
