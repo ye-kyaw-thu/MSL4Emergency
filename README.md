@@ -1,5 +1,9 @@
 # MSL4Emergency
 Myanmar Sign Language Corpus for Emergency Domain  
-(We already uploaded some text files to Github but MSL videos are still uploading.  
-FYI: in total 558 videos.  
-Please wait!)
+
+FYI: We already uploaded videos files also. (in total 558 videos).  
+From now on, we will prepare README in both Myanmar and English languages.
+Please wait!
+Thank you!
+
+y@Bielefeld
