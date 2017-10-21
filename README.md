@@ -4,6 +4,22 @@ This corpus is a part of Myanmar sign language corpus for general domain that we
 
 မြန်မာလိုဖတ်မယ်ဆိုရင် -->  [README in Myanmar language](https://github.com/ye-kyaw-thu/MSL4Emergency/blob/master/README-my.md)  
 
+## Latest Version
+
+[Version.1.0](https://github.com/ye-kyaw-thu/MSL4Emergency/tree/master/msl4emergency-ver-1.0)  
+
+## Development and Support
+
+Contributors 
+
+Hlaing Myat Nwe  
+Hnin Aye Thant  
+Hnin Wai Wai Hlaing  
+Nandar Win Min  
+Ni Htwe Aung  
+Swe Zin Moe  
+[Ye Kyaw Thu](https://sites.google.com/site/yekyawthunlp/)  
+
 ## Lincense
 Creative Commons Attribution-NonCommercial-Share Alike 4.0 International (CC BY-NC-SA 4.0) License  
 [Details Info of License](https://creativecommons.org/licenses/by-nc-sa/4.0/)
