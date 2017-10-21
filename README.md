@@ -24,6 +24,10 @@ Some examples of Myanmar written text and Myanmar sign language transcription ar
 * ငလျင် လှုပ် နေ ရင် အဆာက်အအုံ ထဲ သို့ ပြေး မ ဝင် ပါ နဲ့ ။ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ငလျှင်လှုပ် အိမ် ပြေးဝင် မလုပ်ရ မလုပ်နဲ့  
 * သွေး တွေ တော်တော် ထွက် နေ တယ် ။ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; သွေး ထွက် အများကြီး  
 
+We also uploaded 48 Myanmar sign language videos (idx20-1.mp4 to idx20-48.mp4) to YouTube for easy to browse and the link is as follow:
+
+[YouTube link for Myanmar sign language sample videos (No.1 to No.48)](https://www.youtube.com/playlist?list=PLcEIKqU2ZkWKe0aGzGoKH5OtdjSHF3L_f)
+
 ## Lincense
 Creative Commons Attribution-NonCommercial-Share Alike 4.0 International (CC BY-NC-SA 4.0) License  
 [Details Info of License](https://creativecommons.org/licenses/by-nc-sa/4.0/)
