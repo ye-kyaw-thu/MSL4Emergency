@@ -41,7 +41,9 @@ We would like to express our gratitude to following:
 * Ma Naw San Htar Wai (Mary Chapman School for Deaf Children, Yangon)  
 * Ma Ei Zin Phyo (Mary Chapman School for Deaf Children, Yangon)  
 * U Kyaw Zin Win (School for the Deaf, Mandalay)  
-* Ko Zarni Zaw (Myanmar Deaf Society)
+* Ko Zarni Zaw (Myanmar Deaf Society)  
+* Sayarma Daw Aye Aye Win (School for the Deaf, Mandalay)  
+* Sayarma Daw Nyunt Nyunt Thein (Mary Chapman School for the Deaf Children, Yangon)  
 
 ## Future Work
 We also plan to
