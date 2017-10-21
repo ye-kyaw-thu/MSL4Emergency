@@ -6,6 +6,9 @@ This corpus is a part of Myanmar sign language corpus for general domain that we
 
 We do hope this corpus will be useful for studying Myanmar sign language and some research purposes such as natural language processing and computational linguistcs researches.
 
+## Lincense
+Creative Commons Attribution-NonCommercial-Share Alike 4.0 International (CC BY-NC-SA 4.0) License  
+[Details Info of License](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 
 ## Latest Version
 
@@ -50,8 +53,8 @@ We would like to express our gratitude to following:
 ## Future Work
 We also plan to
 
-## Publication
+## Publication  
 
-## Lincense
-Creative Commons Attribution-NonCommercial-Share Alike 4.0 International (CC BY-NC-SA 4.0) License  
-[Details Info of License](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+* Swe Zin Moe, Ye Kyaw Thu, Hnin Aye Thant and Nandar Win Min, "Corpus Building for Machine Translation between Myanmar Sign Language and Myanmar Written Text", at 7th Workshop on Natural Language and Speech Processing, ICCA2017, Yangon, Myanmar (16th Feb 2017) [Poster](https://drive.google.com/file/d/0B0XRrhSPIXfKLXhWaGE1dUpkVFU/view)  
+
+* Ye Kyaw Thu, Sai Aung Win Maung and Yoshiyori URANO, "Direct Keyboard Mapping (DKM) Layout for Myanmar Fingerspelling Text Input (Study with Developed Fingerspelling Font "mmfingerspelling.ttf")", GITS/GITI Research Bulletin 2009-2010, Waseda University, pp. 127-135.  (published on July 31, 2010). [Paper](http://gits-db.jp/bulletin/2009/papers/127-135.pdf)  
