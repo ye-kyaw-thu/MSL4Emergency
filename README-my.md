@@ -59,3 +59,15 @@ Creative Commons Attribution-NonCommercial-Share Alike 4.0 International (CC BY-
 ကျောင်းသားတွေ၊ ဆရာမတွေနဲ့အတူတူ သက်ဆိုင်ရာ ကျောင်းအသီးသီးမှာ ဆွေးနွေးခွင့်၊ ဗီဒီယိုရိုက်ယူခွင့်ပြုပေးခဲ့ကြသော School for the Deaf (Mandalay) ကျောင်းရဲ့ ကျောင်းအုပ်ဆရာမကြီး ဒေါ်အေးအေးဝင်း၊ Mary Chapman School for the Deaf Children ကျောင်းရဲ့ ကျောင်းအုပ်ဆရာမကြီး ဒေါ်ညွန့်ညွန့်သိန်း နှင့် School for the Deaf (Tarmwe) Yangon ကျောင်းရဲ့ ကျောင်းအုပ်ဆရာမကြီး ဒေါ်မြသီတာ တို့ကိုလည်း ကျေးဇူးအထူးတင်ရှိပါသည်။  
 
 အလုပ်တွေအင်မတန်များသည့်ကြားမှ လက်သင်္ကေတဘာသာစကားနဲ့ ပတ်သက်ပြီး၊ သင်ကြားပြသပေး၊ ဗီဒိယိုရိုက်ကူးသည့်နေရာမှာလည်း တောက်လျှောက် အပင်ပန်းခံကူညီဆောင်ရွက်ပေးတဲ့ ဆရာမ ဒေါ်ရတနာအောင် ကိုလည်း ကျေးဇူးအထူးတင်ရှိပါသည်။  
+
+## ရှေ့ဆက် ဆောင်ရွက်ရန်
+* ELAN software နဲ့ ဖြတ်ထားသော ဗီဒီယိုဖိုင်တစ်ပိုင်းချင်းစီကို ပြန်စစ်ရန်။  
+* Adding some more detail information relating to MSL  
+* လက်ရှိ လေ့လာတွေ့ရှိချက်များ၊ SMT/NMT ဘာသာပြန်ရလဒ်များနဲ့ ပတ်သက်ပြီး စာတမ်းဖတ်ရန်
+
+## ဖတ်ကြားခဲ့သော သုတေသနစာတမ်းများ
+
+* Swe Zin Moe, Ye Kyaw Thu, Hnin Aye Thant and Nandar Win Min, "Corpus Building for Machine Translation between Myanmar Sign Language and Myanmar Written Text", at 7th Workshop on Natural Language and Speech Processing, ICCA2017, Yangon, Myanmar (16th Feb 2017) [Poster](https://drive.google.com/file/d/0B0XRrhSPIXfKLXhWaGE1dUpkVFU/view)  
+
+* Ye Kyaw Thu, Sai Aung Win Maung and Yoshiyori URANO, "Direct Keyboard Mapping (DKM) Layout for Myanmar Fingerspelling Text Input (Study with Developed Fingerspelling Font "mmfingerspelling.ttf")", GITS/GITI Research Bulletin 2009-2010, Waseda University, pp. 127-135.  (published on July 31, 2010). [Paper](http://gits-db.jp/bulletin/2009/papers/127-135.pdf)  
+
