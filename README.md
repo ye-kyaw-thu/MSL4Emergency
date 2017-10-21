@@ -6,6 +6,24 @@ This corpus is a part of Myanmar sign language corpus for general domain that we
 
 We do hope this corpus will be useful for studying Myanmar sign language and some research purposes such as natural language processing and computational linguistcs researches.
 
+Some examples of Myanmar written text and Myanmar sign language transcription are as follow:  
+
+* မီးချိတ် ။ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; မီးချိတ်  
+* သဲ အိတ် ။ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; အိတ် ထဲ သဲ  
+* မီးသတ်ဆေးဘူး ။ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; အနီ ဘူး ဖြန်း  
+* မီးလောင် လွယ် သော ပစ္စည်း များ ။ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; မီးလောင် တစ်ခါတည်း ဓာတ်ဆီ စက္ကူ စွန့်ပစ် အမျိုးမျိုး  
+* လောင်စာဆီ ။ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ဓာတ်ဆီ 9 2 9 5 အောက်တိန်း အမျိုးမျိုး  
+* မီးခလုပ် ။ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ခလုပ် နှိပ်  
+* မီးခိုး ။ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; မီး အခိုးအငွေ့ အမဲ  
+* အောက်စီဂျင် ။ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; အောက်ဆီဂျင် o 2  
+* ထွက်ပေါက် ။ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ဆိုင်းဘုတ် အဲဒီက ပြေး တံခါးပေါက်  
+* မီးသတ်ကား ။ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ကား အရေးပေါ် မီးသတ်  
+* ကယ်ဆယ်ရေး နှင့် အရေးပေါ် ပြန်လည် ထူထောင်ရေး ။ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; လူ ကယ်ဆယ် ယခု မြန်မြန် ပြင်ဆင် ထူထောင်  
+* အထူး သတိပြု ။ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ဒုက္ခ ဂရုစိုက်  
+* ခုန် မ ချ နဲ့ ။ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ခုန်ချ မလုပ်နဲ့  
+* ငလျင် လှုပ် နေ ရင် အဆာက်အအုံ ထဲ သို့ ပြေး မ ဝင် ပါ နဲ့ ။ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ငလျှင်လှုပ် အိမ် ပြေးဝင် မလုပ်ရ မလုပ်နဲ့  
+* သွေး တွေ တော်တော် ထွက် နေ တယ် ။ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; သွေး ထွက် အများကြီး  
+
 ## Lincense
 Creative Commons Attribution-NonCommercial-Share Alike 4.0 International (CC BY-NC-SA 4.0) License  
 [Details Info of License](https://creativecommons.org/licenses/by-nc-sa/4.0/)
