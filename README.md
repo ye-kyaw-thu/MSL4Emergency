@@ -11,6 +11,17 @@ We do hope this corpus will be useful for studying Myanmar sign language and som
 
 [Version.1.0](https://github.com/ye-kyaw-thu/MSL4Emergency/tree/master/msl4emergency-ver-1.0)  
 
+## File and Folder Information
+
+* video/ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; (main folder for video files)  
+* elan-and-pfsx.zip &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; (zipped file of eaf and pfsx files for using with ELAN software)  
+* my &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; (Myanmar written text)  
+* my-mypos &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; (raw Myanmar written text and POS tagged Myanmar written text)  
+* my-pos &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; (only POS tagged Myanmar written text)  
+* my-sl &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; (Myanmar written text and sign language transcription text)  
+* note.txt &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; (note file in English for files and folders)  
+* sl &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; (only sign language transcription text) 
+
 ## Development and Support
 
 Contributors 
