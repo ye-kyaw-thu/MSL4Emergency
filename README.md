@@ -44,6 +44,8 @@ We would like to express our gratitude to following:
 * Ko Zarni Zaw (Myanmar Deaf Society)  
 * Sayarma Daw Aye Aye Win (School for the Deaf, Mandalay)  
 * Sayarma Daw Nyunt Nyunt Thein (Mary Chapman School for the Deaf Children, Yangon)  
+* Sayarma Daw Mya Thida (School for the Deaf, Tarmwe, Yangon)
+* Sayarma Daw Yadana Aung (School for the Deaf, Mandalay)
 
 ## Future Work
 We also plan to
