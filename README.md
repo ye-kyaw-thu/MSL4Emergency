@@ -37,7 +37,7 @@ Swe Zin Moe
 ## Acknowledgements
 We would like to express our gratitude to following:
 
-* U Aung Kyaw Thet ဦးအောင်ကျော်သက် (School for the Deaf, Tarmwe, Yangon)  
+* U Aung Kyaw Thet (School for the Deaf, Tarmwe, Yangon)  
 * Ma Naw San Htar Wai (Mary Chapman School for Deaf Children, Yangon)  
 * Ma Ei Zin Phyo (Mary Chapman School for Deaf Children, Yangon)  
 * U Kyaw Zin Win (School for the Deaf, Mandalay)  
