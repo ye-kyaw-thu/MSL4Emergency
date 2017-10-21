@@ -31,6 +31,9 @@
 
 အထက်ပါပုံအတိုင်း ဆေးရုံကို မန္တလေးလက်သင်္ကေတစကားမှာက ပုံ (a)အတိုင်း သုံးပြီး၊ ရန်ကုန်လက်သင်္ကေတစကားမှာက ပုံ(b)အတိုင်း အသုံးပြုကြပါသည်။
 
+## နောက်ဆုံး ဗားရှင်း (Latest Version)
+
+[Version.1.0](https://github.com/ye-kyaw-thu/MSL4Emergency/tree/master/msl4emergency-ver-1.0)
 
 ## လိုင်စင်
 Creative Commons Attribution-NonCommercial-Share Alike 4.0 International (CC BY-NC-SA 4.0) License  
