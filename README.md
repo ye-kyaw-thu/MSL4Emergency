@@ -50,8 +50,11 @@ We would like to express our gratitude to following:
 * Sayarma Daw Mya Thida (Headmaster, School for the Deaf, Tarmwe, Yangon)
 * Sayarma Daw Yadana Aung (School for the Deaf, Mandalay)
 
-## Future Work
-We also plan to
+## Future Work  
+
+* Re-check Myanmar sign language video segmentations with ELAN software  
+* Adding some more detail information relating to MSL  
+* We plan to publish our SMT/NMT translation results between Myanmar sign language and Myanmar written text  
 
 ## Publication  
 
