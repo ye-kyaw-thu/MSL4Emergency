@@ -39,13 +39,13 @@
 
 Contributors 
 
-Hlaing Myat Nwe
-Hnin Aye Thant
-Hnin Wai Wai Hlaing
-Nandar Win Min
-Ni Htwe Aung
-Swe Zin Moe
-Ye Kyaw Thu
+Hlaing Myat Nwe  
+Hnin Aye Thant  
+Hnin Wai Wai Hlaing  
+Nandar Win Min  
+Ni Htwe Aung  
+Swe Zin Moe  
+Ye Kyaw Thu  
 
 ## လိုင်စင်
 Creative Commons Attribution-NonCommercial-Share Alike 4.0 International (CC BY-NC-SA 4.0) License  
