@@ -2,7 +2,7 @@
 
 မြန်မာလိုဖတ်မယ်ဆိုရင် -->  [README in Myanmar language](https://github.com/ye-kyaw-thu/MSL4Emergency/blob/master/README-my.md)  
 
-This corpus is a part of Myanmar sign language corpus for general domain that we are developing. In this corpus, it contained 558 Myanmar sign language videos of emergency domain. We also annotated the collected sign language videos with transcription of Myanmar text and translated Myanmar written text. All text sentences are word segmented and POS tagging also done for Myanmar written text. Moreover, we also provide some necessary files for able to browse sign language videos with ELAN software.
+This corpus is a part of Myanmar sign language corpus for general domain that we are developing. In this corpus, it contained 558 Myanmar sign language videos of emergency domain. We also annotated the collected sign language videos with transcription of Myanmar text and translated Myanmar written text. All text sentences are word segmented and POS tagging also done for Myanmar written text. Moreover, we also provide some necessary files for able to browse sign language videos with [ELAN](https://tla.mpi.nl/tools/tla-tools/elan/) (a professional tool for the creation of complex annotations on video and audio resources) software.
 
 We do hope this corpus will be useful for studying Myanmar sign language and some research purposes such as natural language processing and computational linguistcs researches.
 
