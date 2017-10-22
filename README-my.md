@@ -8,7 +8,7 @@
 
 [YouTube link for Myanmar sign language sample videos (No.1 to No.48)](https://www.youtube.com/playlist?list=PLcEIKqU2ZkWKe0aGzGoKH5OtdjSHF3L_f)
 
-ကျွန်တော်နားလည်တာကို အကြမ်းမျဉ်းရှင်းပြရရင်တော့ မြန်မာစာနဲ့ မြန်မာလက်သင်္ကေတဘာသာစာကားက လုံးဝကို မတူသော ဘာသာစကားနှစ်ခုဖြစ်ပါသည်။ သဘာဝအားဖြင့်ရော၊ သဒ္ဒါအားဖြင့်ကော ကွာခြားပါသည်။ မြန်မာပြည်မှာ ကြီးပြင်းနေထိုင်ကြသူများက အသုံးပြုကြသော ဘာသာစကားတစ်ခု ဖြစ်သောကြောင့် မြန်မာလူမျိုးများရဲ့ အတွေးအခေါ်၊ ဘာသာ၊ ယဉ်ကျေးမှု စသည်ဖြင့် လွှမ်းမိုးမှုများကတော့ မြန်မာလက်သင်္ကေတဘာသာစကားမှာလည်း အတိုင်းအတာတစ်ခုထိသက်ရောကမှုကတော့ ရှိပါသည်။ မြင်သာအောင် မြန်မာစာကြောင်းနဲ့ မြန်မာလက်သင်္ကေတစကားကို ဘေးချင်းယှဉ်ပြီး ရိုက်ပြရရင် အောက်ပါအတိုင်း ဖြစ်ပါသည်။  
+ကျွန်တော်နားလည်တာကို အကြမ်းမျဉ်းရှင်းပြရရင်တော့ မြန်မာစာနဲ့ မြန်မာလက်သင်္ကေတဘာသာစာကားက လုံးဝကို မတူသော ဘာသာစကားနှစ်ခုဖြစ်ပါသည်။ သဘာဝအားဖြင့်ရော၊ သဒ္ဒါအားဖြင့်ကော ကွာခြားပါသည်။ မြန်မာပြည်မှာ ကြီးပြင်းနေထိုင်ကြသူများက အသုံးပြုကြသော ဘာသာစကားတစ်ခု ဖြစ်သောကြောင့် မြန်မာလူမျိုးများရဲ့ အတွေးအခေါ်၊ ဘာသာ၊ ယဉ်ကျေးမှု စသည်ဖြင့် လွှမ်းမိုးမှုများကတော့ မြန်မာလက်သင်္ကေတဘာသာစကားမှာလည်း အတိုင်းအတာတစ်ခုထိသက်ရောက်မှုကတော့ ရှိပါသည်။ မြင်သာအောင် မြန်မာစာကြောင်းနဲ့ မြန်မာလက်သင်္ကေတစကားကို ဘေးချင်းယှဉ်ပြီး ရိုက်ပြရရင် အောက်ပါအတိုင်း ဖြစ်ပါသည်။  
 
 * မီးချိတ် ။ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; မီးချိတ်  
 * သဲ အိတ် ။ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; အိတ် ထဲ သဲ  
@@ -87,7 +87,9 @@ Creative Commons Attribution-NonCommercial-Share Alike 4.0 International (CC BY-
 
 ## ဖတ်ကြားခဲ့သော သုတေသနစာတမ်းများ
 
-* Swe Zin Moe, Ye Kyaw Thu, Hnin Aye Thant and Nandar Win Min, "Corpus Building for Machine Translation between Myanmar Sign Language and Myanmar Written Text", at 7th Workshop on Natural Language and Speech Processing, ICCA2017, Yangon, Myanmar (16th Feb 2017) [Poster](https://drive.google.com/file/d/0B0XRrhSPIXfKLXhWaGE1dUpkVFU/view)  
+* Swe Zin Moe, Hlaing Myat Nwe, Hnin Wai Wai Hlaing, Ye Kyaw Thu, Hnin Aye Thant, Nandar Win Min, "Myanmar Sign Language (MSL) Corpus for Emergency Domain", PACLING2017 conference, Yangon, Myanmar. (Demo)  
+
+* Swe Zin Moe, Ye Kyaw Thu, Hnin Aye Thant and Nandar Win Min, "Corpus Building for Machine Translation between Myanmar Sign Language and Myanmar Written Text", at 7th Workshop on Natural Language and Speech Processing, ICCA2017, Yangon, Myanmar (16th Feb 2017) [Poster](https://drive.google.com/file/d/0B0XRrhSPIXfKLXhWaGE1dUpkVFU/view)  
 
 * Ye Kyaw Thu, Sai Aung Win Maung and Yoshiyori URANO, "Direct Keyboard Mapping (DKM) Layout for Myanmar Fingerspelling Text Input (Study with Developed Fingerspelling Font "mmfingerspelling.ttf")", GITS/GITI Research Bulletin 2009-2010, Waseda University, pp. 127-135.  (published on July 31, 2010). [Paper](http://gits-db.jp/bulletin/2009/papers/127-135.pdf)  
 
