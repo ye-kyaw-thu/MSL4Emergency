@@ -78,7 +78,9 @@ We would like to express our gratitude to following:
 * Adding some more detail information relating to MSL  
 * We plan to publish our SMT/NMT translation results between Myanmar sign language and Myanmar written text  
 
-## Publication  
+## Publication and Demo  
+
+* Swe Zin Moe, Hlaing Myat Nwe, Hnin Wai Wai Hlaing, Ye Kyaw Thu, Hnin Aye Thant, Nandar Win Min, "Myanmar Sign Language (MSL) Corpus for Emergency Domain", PACLING2017 conference, Yangon, Myanmar.  
 
 * Swe Zin Moe, Ye Kyaw Thu, Hnin Aye Thant and Nandar Win Min, "Corpus Building for Machine Translation between Myanmar Sign Language and Myanmar Written Text", at 7th Workshop on Natural Language and Speech Processing, ICCA2017, Yangon, Myanmar (16th Feb 2017) [Poster](https://drive.google.com/file/d/0B0XRrhSPIXfKLXhWaGE1dUpkVFU/view)  
 
