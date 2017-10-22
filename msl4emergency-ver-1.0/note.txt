@@ -2,12 +2,13 @@ Myanmar sign language corpus for emergency domain version 1.0.
 
 Information of files and folders:
 
-my (Myanmar written text)
-my-pos (POS tagged Myanmar written text)
-sl (Myanmar sign language)
-my-sl (Parallel data of Myanmar written text and Myanmar sign language)
-my-mypos (Parallel data of Myanmar written text and POS tagged Myanmar written text)
+video/       (main folder for video files)
+elan-and-pfsx.zip       (zipped file of eaf and pfsx files for using with ELAN software)
+my       (Myanmar written text)
+my-mypos       (raw Myanmar written text and POS tagged Myanmar written text)
+my-pos       (only POS tagged Myanmar written text)
+my-sl       (Myanmar written text and sign language transcription text)
+note.txt       (note file in English for files and folders)
+sl       (only sign language transcription text)
 
-link for accessing Myanmar sign language videos:
-*** Please wait, we are preparing/uploading ... 
-
+Note: If you want to view Myanmar sign language videos with ELAN software, you have to put .eaf and .pfsx files together with videos. For example, to view "idx20-1.mp4" video file, you should put "idx20-1.eaf" and "idx20-1.pfsx" files under the same folder.
