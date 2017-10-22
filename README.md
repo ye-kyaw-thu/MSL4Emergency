@@ -1,4 +1,4 @@
-# MSL4Emergency (Myanmar Sign language Corpus for Emergency Domain)  
+# MSL4Emergency (Myanmar Sign language Corpus for the Emergency Domain)  
 
 မြန်မာလိုဖတ်မယ်ဆိုရင် -->  [README in Myanmar language](https://github.com/ye-kyaw-thu/MSL4Emergency/blob/master/README-my.md)  
 
