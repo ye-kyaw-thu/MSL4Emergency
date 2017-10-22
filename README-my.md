@@ -59,7 +59,7 @@ Creative Commons Attribution-NonCommercial-Share Alike 4.0 International (CC BY-
 ဖိုင်၊ ဖိုလ်ဒါ နာမည်နဲ့ သက်ဆိုင်သော အကြောင်းအရာအသေးစိတ်ကတော့ အောက်ပါအတိုင်းဖြစ်ပါသည်။  
 
 * video/ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; (ဗီဒီယိုဖိုင်တွေကိုသိမ်းဆည်းထားသော ဖိုလ်ဒါ)  
-* elan-and-pfsx.zip &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; (ELAN ဆောဖ့်ဝဲနဲ့အတူတူ ဗီဒီယိုဖိုင်တွေကို တွဲကြည့်သည့်အခါမှာ လိုအပ်တဲ့ ဖိုင်တွေကို zip လုပ်ပြီးသိမ်းထားသောဖိုင်)  
+* elan-and-pfsx.zip &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ([ELAN](https://tla.mpi.nl/tools/tla-tools/elan/) ဆောဖ့်ဝဲနဲ့အတူတူ ဗီဒီယိုဖိုင်တွေကို တွဲကြည့်သည့်အခါမှာ လိုအပ်တဲ့ ဖိုင်တွေကို zip လုပ်ပြီးသိမ်းထားသောဖိုင်)  
 * my &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; (မြန်မာစာကြောင်းများကို သီးသန့်သိမ်းဆည်းထားသောဖိုင်)  
 * my-mypos &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; (raw မြန်မာစာကြောင်းနဲ့အတူ  POS tag ပြုလုပ်ထားသော မြန်မာစာကြောင်းများကို သိမ်းဆည်းပေးထားသောဖိုင်)  
 * my-pos &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; (POS tag ပြုလုပ်ထားသော မြန်မာစာကြောင်းများကိုသာ သီးသန့် သိမ်းဆည်းပေးထားသောဖိုင်)  
