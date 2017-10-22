@@ -87,7 +87,7 @@ Creative Commons Attribution-NonCommercial-Share Alike 4.0 International (CC BY-
 
 ## ဖတ်ကြားခဲ့သော သုတေသနစာတမ်းများ
 
-* Swe Zin Moe, Hlaing Myat Nwe, Hnin Wai Wai Hlaing, Ye Kyaw Thu, Hnin Aye Thant, Nandar Win Min, "Myanmar Sign Language (MSL) Corpus for Emergency Domain", PACLING2017 conference, Yangon, Myanmar. (Demo)  
+* Swe Zin Moe, Hlaing Myat Nwe, Hnin Wai Wai Hlaing, Ye Kyaw Thu, Hnin Aye Thant, Nandar Win Min, "Myanmar Sign Language (MSL) Corpus for Emergency Domain", PACLING2017 conference, Yangon, Myanmar. (Demo and poster)  
 
 * Swe Zin Moe, Ye Kyaw Thu, Hnin Aye Thant and Nandar Win Min, "Corpus Building for Machine Translation between Myanmar Sign Language and Myanmar Written Text", at 7th Workshop on Natural Language and Speech Processing, ICCA2017, Yangon, Myanmar (16th Feb 2017) [Poster](https://drive.google.com/file/d/0B0XRrhSPIXfKLXhWaGE1dUpkVFU/view)  
 
