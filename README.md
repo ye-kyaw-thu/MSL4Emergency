@@ -88,7 +88,7 @@ For the valuable suggestions, teaching Myanmar sign language for MSL4Emergency c
 * Adding some more detail information relating to MSL  
 * We plan to publish our SMT/NMT translation results between Myanmar sign language and Myanmar written text  
 
-## Publication and Demo  
+## Publication, Talk and Demo  
 
 * Swe Zin Moe, Ye Kyaw Thu, Hlaing Myat Nwe, Hnin Wai Wai Hlaing, Ni Htwe Aung, Hnin Aye Thant, Nandar Win Min, "Corpus Building for Machine Translation between Myanmar Sign Language and Myanmar Written Text", World Deaf Day 2017, 14 Sept. 2017, Mandalay Community Centre, Chan Aye Tharzan Township, Mandalay, Myanmar. [Poster](https://drive.google.com/file/d/0B0XRrhSPIXfKd2paNXBvTVQzTEU/view?usp=sharing)
 
