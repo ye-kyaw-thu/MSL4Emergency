@@ -87,9 +87,11 @@ Creative Commons Attribution-NonCommercial-Share Alike 4.0 International (CC BY-
 
 ## ဖတ်ကြားခဲ့သော သုတေသနစာတမ်းများ
 
+* Swe Zin Moe, Ye Kyaw Thu, Hlaing Myat Nwe, Hnin Wai Wai Hlaing, Ni Htwe Aung, Hnin Aye Thant, Nandar Win Min, "Corpus Building for Machine Translation between Myanmar Sign Language and Myanmar Written Text", World Deaf Day 2017, 14 Sept. 2017, Mandalay Community Centre, Chan Aye Tharzan Township, Mandalay, Myanmar.[poster]()
+
 * Swe Zin Moe, Hlaing Myat Nwe, Hnin Wai Wai Hlaing, Ye Kyaw Thu, Hnin Aye Thant, Nandar Win Min, "Myanmar Sign Language (MSL) Corpus for Emergency Domain", PACLING2017 conference, Yangon, Myanmar. (Demo and poster)  
 
-* Swe Zin Moe, Ye Kyaw Thu, Hnin Aye Thant and Nandar Win Min, "Corpus Building for Machine Translation between Myanmar Sign Language and Myanmar Written Text", at 7th Workshop on Natural Language and Speech Processing, ICCA2017, Yangon, Myanmar (16th Feb 2017) [Poster](https://drive.google.com/file/d/0B0XRrhSPIXfKLXhWaGE1dUpkVFU/view)  
+* Swe Zin Moe, Ye Kyaw Thu, Hnin Aye Thant and Nandar Win Min, "Corpus Building for Machine Translation between Myanmar Sign Language and Myanmar Written Text", at 7th Workshop on Natural Language and Speech Processing, ICCA2017, Yangon, Myanmar (16th Feb 2017). [Poster](https://drive.google.com/file/d/0B0XRrhSPIXfKLXhWaGE1dUpkVFU/view)  
 
 * Ye Kyaw Thu, Sai Aung Win Maung and Yoshiyori URANO, "Direct Keyboard Mapping (DKM) Layout for Myanmar Fingerspelling Text Input (Study with Developed Fingerspelling Font "mmfingerspelling.ttf")", GITS/GITI Research Bulletin 2009-2010, Waseda University, pp. 127-135.  (published on July 31, 2010). [Paper](http://gits-db.jp/bulletin/2009/papers/127-135.pdf)  
 
