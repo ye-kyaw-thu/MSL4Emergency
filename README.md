@@ -62,14 +62,27 @@ Swe Zin Moe
 ## Acknowledgements
 We would like to express our gratitude to following:
 
+Five signers of MSL4Emergency videos: 
 * U Aung Kyaw Thet (School for the Deaf, Tarmwe, Yangon)  
 * Ma Naw San Htar Wai (Mary Chapman School for Deaf Children, Yangon)  
 * Ma Ei Zin Phyo (Mary Chapman School for Deaf Children, Yangon)  
 * U Kyaw Zin Win (School for the Deaf, Mandalay)  
 * Ko Zarni Zaw (Myanmar Deaf Society)  
+
+For the valuable suggestions, teaching Myanmar sign language for MSL4Emergency corpus preparation:
+
 * Sayarma Daw Aye Aye Win (Headmaster, School for the Deaf, Mandalay)  
-* Sayarma Daw Nyunt Nyunt Thein (Headmaster, Mary Chapman School for the Deaf Children, Yangon)  
+* U Aye Soe  (Headmaster, School for the Deaf, Tarmwe, Yangon)  
+* U Aung Kyaw Thet  (Headmaster, School for the Deaf, Tarmwe, Yangon)  
+* Ma Ei Zin Phyoe (Mary Chapman School for Deaf Children, Yangon)
+* Daw Mai Nwe Ni (Mary Chapman School for Deaf Children, Yangon)  
 * Sayarma Daw Mya Thida (Headmaster, School for the Deaf, Tarmwe, Yangon)
+* Ma Nant Hnin Thida Thein (Mary Chapman School for Deaf Children, Yangon)  
+* Ma Naw Nyein Nyein Oo  (Headmaster, School for the Deaf, Tarmwe, Yangon)  
+* Ma Naw San Htar Wai (Mary Chapman School for Deaf Children, Yangon)  
+* Sayarma Daw Nyunt Nyunt Thein (Headmaster, Mary Chapman School for the Deaf Children, Yangon)  
+* Ma Su Myat Thu (Mary Chapman School for Deaf Children, Yangon)
+* Daw Thida Swe  (Headmaster, School for the Deaf, Tarmwe, Yangon)  
 * Sayarma Daw Yadana Aung (School for the Deaf, Mandalay)
 
 ## Future Work  
