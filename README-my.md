@@ -85,7 +85,7 @@ Creative Commons Attribution-NonCommercial-Share Alike 4.0 International (CC BY-
 * Adding some more detail information relating to MSL  
 * လက်ရှိ လေ့လာတွေ့ရှိချက်များ၊ SMT/NMT ဘာသာပြန်ရလဒ်များနဲ့ ပတ်သက်ပြီး စာတမ်းဖတ်ရန်
 
-## ဖတ်ကြားခဲ့သော သုတေသနစာတမ်းများ
+## ဖတ်ကြားခဲ့သော သုတေသနစာတမ်းများ နှင့် ဆွေးနွေးပွဲများ
 
 * Swe Zin Moe, Ye Kyaw Thu, Hlaing Myat Nwe, Hnin Wai Wai Hlaing, Ni Htwe Aung, Hnin Aye Thant, Nandar Win Min, "Corpus Building for Machine Translation between Myanmar Sign Language and Myanmar Written Text", World Deaf Day 2017, 14 Sept. 2017, Mandalay Community Centre, Chan Aye Tharzan Township, Mandalay, Myanmar. [Poster](https://drive.google.com/file/d/0B0XRrhSPIXfKd2paNXBvTVQzTEU/view?usp=sharing)
 
