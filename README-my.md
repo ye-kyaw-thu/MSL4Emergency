@@ -81,13 +81,14 @@ Creative Commons Attribution-NonCommercial-Share Alike 4.0 International (CC BY-
 အလုပ်တွေအင်မတန်များသည့်ကြားမှ လက်သင်္ကေတဘာသာစကားနဲ့ ပတ်သက်ပြီး၊ သင်ကြားပြသပေး၊ ဗီဒိယိုရိုက်ကူးသည့်နေရာမှာလည်း တောက်လျှောက် အပင်ပန်းခံကူညီဆောင်ရွက်ပေးတဲ့ ဆရာမ ဒေါ်ရတနာအောင် ကိုလည်း ကျေးဇူးအထူးတင်ရှိပါသည်။  
 
 
-Sayarma Daw Aye Aye Win (Headmaster, School for the Deaf, Mandalay)
+To add in Myanmar language:
+
 U Aye Soe (School for the Deaf, Tarmwe, Yangon)
 Daw Mai Nwe Ni (Mary Chapman School for Deaf Children, Yangon)
-Sayarma Daw Mya Thida (Headmaster, School for the Deaf, Tarmwe, Yangon)
+
 Ma Nant Hnin Thida Thein (Mary Chapman School for Deaf Children, Yangon)
 Ma Naw Nyein Nyein Oo (School for the Deaf, Tarmwe, Yangon)
-Sayarma Daw Nyunt Nyunt Thein (Headmaster, Mary Chapman School for the Deaf Children, Yangon)
+
 Ma Su Myat Thu (Mary Chapman School for Deaf Children, Yangon)
 Daw Thida Swe (School for the Deaf, Tarmwe, Yangon)
 Sayarma Daw Yadana Aung (School for the Deaf, Mandalay)
