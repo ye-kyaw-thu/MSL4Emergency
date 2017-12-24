@@ -90,6 +90,10 @@ For the valuable suggestions, teaching Myanmar sign language for MSL4Emergency c
 
 ## Publication, Talk and Demo  
 
+* Hlaing Myat Nwe, Ye Kyaw Thu, Hnin Wai Wai Hlaing, Swe Zin Moe, Ni Htwe Aung, Hnin Aye Thant, Nandar Win Min, "Two Fingerspelling Keyboard layouts for Myanmar SignWriting", International Day of Persons with Disabilities 2017, 3 Dec. 2017, Wilson Hotel, No.31(E), Yangon-Mandalay Main Road, Maha Aung Myay Township, Mandalay, Myanmar. Demo and [Poster](https://github.com/ye-kyaw-thu/MSL4Emergency/blob/master/publications/poster4WWD2017update3.pdf)
+
+* Swe Zin Moe, Hnin Wai Wai Hlaing, Ye Kyaw Thu, Hlaing Myat Nwe, Ni Htwe Aung, Hnin Aye Thant, Nandar Win Min, "မြန်မာ လက်သင်္ကေတပြဘာသာစကား မှ မြန်မာစကားပြောစာကြောင်းသို့ ကွန်ပျူတာသုံး ဘာသာပြန် သုတေသန", International Day of Persons with Disabilities 2017, 3 Dec. 2017, Wilson Hotel, No.31(E), Yangon-Mandalay Main Road, Maha Aung Myay Township, Mandalay, Myanmar. Demo and [Poster](https://github.com/ye-kyaw-thu/MSL4Emergency/blob/master/publications/szm-wdd2017-dec-poster.pdf)
+
 * Swe Zin Moe, Ye Kyaw Thu, Hlaing Myat Nwe, Hnin Wai Wai Hlaing, Ni Htwe Aung, Hnin Aye Thant, Nandar Win Min, "Corpus Building for Machine Translation between Myanmar Sign Language and Myanmar Written Text", World Deaf Day 2017, 14 Sept. 2017, Mandalay Community Centre, Chan Aye Tharzan Township, Mandalay, Myanmar. [Poster](https://drive.google.com/file/d/0B0XRrhSPIXfKd2paNXBvTVQzTEU/view?usp=sharing)
 
 * Swe Zin Moe, Hlaing Myat Nwe, Hnin Wai Wai Hlaing, Ye Kyaw Thu, Hnin Aye Thant, Nandar Win Min, "Myanmar Sign Language (MSL) Corpus for Emergency Domain", PACLING2017 conference, Yangon, Myanmar. (Demo and poster)  
