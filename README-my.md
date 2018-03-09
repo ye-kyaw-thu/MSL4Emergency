@@ -87,6 +87,10 @@ Creative Commons Attribution-NonCommercial-Share Alike 4.0 International (CC BY-
 
 ## ဖတ်ကြားခဲ့သော သုတေသနစာတမ်းများ နှင့် ဆွေးနွေးပွဲများ
 
+* Swe Zin Moe, Ye Kyaw Thu, Hnin Wai Wai Hlaing, Hlaing Myat Nwe, Ni Htwe Aung, Hnin Aye Thant, Nandar Win Min, "Statistical Machine Translation between Myanmar Sign Language and Myanmar Writen Text", In Proceedings of ICCA2018, February 22-23, 2018, Yangon, Myanmar, pp. 217-227. [Paper](https://github.com/ye-kyaw-thu/MSL4Emergency/blob/master/publications/SMT-between-MSL-and-MyanmarWrittenText-ICCA2018.pdf)
+
+* Hlaing Myat Nwe, Ye Kyaw Thu, Hnin Wai Wai Hlaing, Swe Zin Moe, Ni Htwe Aung , Hnin Aye Thant , Nanda Win Min, "Two Fingerspelling Keyboard Layouts for Myanmar SignWriting", In Proceedings of ICCA2018, February 22-23, 2018, Yangon, Myanmar, pp. 290-298. [Paper](https://github.com/ye-kyaw-thu/MSL4Emergency/blob/master/publications/msw-fingerspelling-keyboards-ICCA2018.pdf)
+
 * Hlaing Myat Nwe, Ye Kyaw Thu, Hnin Wai Wai Hlaing, Swe Zin Moe, Ni Htwe Aung, Hnin Aye Thant, Nandar Win Min, "Two Fingerspelling Keyboard layouts for Myanmar SignWriting", International Day of Persons with Disabilities 2017, 3 Dec. 2017, Wilson Hotel, No.31(E), Yangon-Mandalay Main Road, Maha Aung Myay Township, Mandalay, Myanmar. Demo and [Poster](https://github.com/ye-kyaw-thu/MSL4Emergency/blob/master/publications/poster4WWD2017update3.pdf)
 
 * Swe Zin Moe, Hnin Wai Wai Hlaing, Ye Kyaw Thu, Hlaing Myat Nwe, Ni Htwe Aung, Hnin Aye Thant, Nandar Win Min, "မြန်မာ လက်သင်္ကေတပြဘာသာစကား မှ မြန်မာစကားပြောစာကြောင်းသို့ ကွန်ပျူတာသုံး ဘာသာပြန် သုတေသန", International Day of Persons with Disabilities 2017, 3 Dec. 2017, Wilson Hotel, No.31(E), Yangon-Mandalay Main Road, Maha Aung Myay Township, Mandalay, Myanmar. Demo and [Poster](https://github.com/ye-kyaw-thu/MSL4Emergency/blob/master/publications/szm-wdd2017-dec-poster.pdf)
